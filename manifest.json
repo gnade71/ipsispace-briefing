@@ -1,0 +1,17 @@
+{
+  "name": "입시스페이스 10월 설명회",
+  "short_name": "입시스페이스",
+  "description": "학원 운영을 데이터로 관리하는 입시스페이스 10월 업데이트 설명회 안내",
+  "start_url": ".",
+  "scope": ".",
+  "id": "ipsispace-oct-briefing",
+  "display": "standalone",
+  "background_color": "#FBF6EA",
+  "theme_color": "#201C2E",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
